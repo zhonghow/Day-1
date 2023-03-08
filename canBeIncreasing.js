@@ -36,3 +36,5 @@ console.log(canBeIncreasing([1, 2, 10, 5, 7])); // true -> [1, 2, 5, 7]
 console.log(canBeIncreasing([2, 3, 1, 2])); // false
 console.log(canBeIncreasing([1, 1, 1])); // false
 console.log(canBeIncreasing([1, 2, 3, 4, 5])); // true
+
+// Some changes
