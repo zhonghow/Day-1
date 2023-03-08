@@ -1,0 +1,13 @@
+Choose a problem that uses these types of structures.
+
+Array
+Stacks (LIFO -> Last in first out. Ex: You stack a pile of books, the last book will be the first)
+Queues (FIFO -> First in first out.)
+Hash Table / Object
+Linked List
+Graphs
+
+Read about:
+Fibonnaci
+Recursion
+Factorial time complexity problems (permutations, travelling salesmans)
